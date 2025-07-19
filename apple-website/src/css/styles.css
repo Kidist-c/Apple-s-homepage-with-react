@@ -86,12 +86,7 @@ img{
 /*second highlight style*/
 
 .second-highlight-wrapper{
-    background-image:url("../images/home/iphone11-pro-bg.jpg");
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
+   
     padding: 65px 20px;
     color:#fff
 }
